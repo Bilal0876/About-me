@@ -1,4 +1,4 @@
-# Hi there, I'm Bilal! 👋
+# Hi there, I'm Bilal!
 
 **Full Stack Developer | PERN Stack Enthusiast | Computer Science Student**
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with hands-o
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a Computer Science student at the University of Central Punjab with a strong foundation in full-stack web development. Through my internship at Qubit Lab Inc., I've gained practical experience in building authentication systems, REST APIs, and responsive user interfaces. I'm passionate about problem-solving, continuous learning, and collaborating with teams to deliver quality solutions.
 
@@ -54,12 +54,12 @@ I'm a Computer Science student at the University of Central Punjab with a strong
 A comprehensive full-stack PERN application designed for intelligent courtroom case management.
 
 **Key Features:**
-- 🔐 Role-based access control (Judges, Administrators, Stenographers)
-- 🎙️ Real-time transcription using OpenAI Whisper with speaker diarization
-- 🌍 Multilingual translation support
-- 📄 Automated PDF export functionality
-- ☁️ Secure cloud storage with Supabase authentication
-- ✏️ Advanced transcript editing and approval workflows
+-  Role-based access control (Judges, Administrators, Stenographers)
+-  Real-time transcription using OpenAI Whisper with speaker diarization
+-  Multilingual translation support
+-  Automated PDF export functionality
+-  Secure cloud storage with Supabase authentication
+-  Advanced transcript editing and approval workflows
 
 **Tech Stack:** PostgreSQL, Express.js, React.js, Node.js, OpenAI Whisper, Supabase
 
@@ -69,20 +69,20 @@ A comprehensive full-stack PERN application designed for intelligent courtroom c
 A user-friendly multilingual translation application with a clean and intuitive interface.
 
 **Key Features:**
-- 📝 Seamless text translation across multiple languages
-- 🎨 Simple and functional UI design
-- ⚡ Fast and reliable translation engine
+-  Seamless text translation across multiple languages
+-  Simple and functional UI design
+-  Fast and reliable translation engine
 
 **Tech Stack:** Python, Flask, Opus MT
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
-- ✅ The Full Stack
-- ✅ Version Control
-- ✅ Programming with JavaScript
-- ✅ Intro to Front-End Development
+-  The Full Stack
+-  Version Control
+-  Programming with JavaScript
+-  Intro to Front-End Development
 
 ---
 
@@ -92,7 +92,7 @@ I'd love to connect and collaborate! Feel free to reach out:
 
 - 📧 **Email:** [m.bilal0876@gmail.com](mailto:m.bilal0876@gmail.com)
 - 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/bilal0876) *(Add your LinkedIn URL)*
-- 🌍 **Portfolio:** [Visit my portfolio](https://yourportfolio.com) *(Add your website)*
+- 🌍 **Portfolio:** [Visit my portfolio](https://bilal0876.github.io/Portfolio/) *(Add your website)*
 
 ---
 
