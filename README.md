@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with hands-o
 
 I'm a Computer Science student at the University of Central Punjab with a strong foundation in full-stack web development. Through my internship at Qubit Lab Inc., I've gained practical experience in building authentication systems, REST APIs, and responsive user interfaces. I'm passionate about problem-solving, continuous learning, and collaborating with teams to deliver quality solutions.
 
-- 🎓 **Education:** BS Computer Science (Expected Feb 2026) - University of Central Punjab, Lahore
-- 💼 **Current Role:** Full Stack Development Intern at Qubit Lab Inc.
-- 🌱 **Focus Areas:** Full-Stack Development, Real-time Systems, Cloud Integration
+- **Education:** BS Computer Science (Expected Feb 2026) - University of Central Punjab, Lahore
+- **Current Role:** Full Stack Development Intern at Qubit Lab Inc.
+- **Focus Areas:** Full-Stack Development, Real-time Systems, Cloud Integration
 ---
 
-## 💼 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -48,9 +48,9 @@ I'm a Computer Science student at the University of Central Punjab with a strong
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🏛️ [AI-Powered Judicial Case & Transcription Management Platform](https://github.com/Bilal0876)
+###  [AI-Powered Judicial Case & Transcription Management Platform](https://github.com/Bilal0876)
 A comprehensive full-stack PERN application designed for intelligent courtroom case management.
 
 **Key Features:**
@@ -65,7 +65,7 @@ A comprehensive full-stack PERN application designed for intelligent courtroom c
 
 ---
 
-### 🌐 [Language Translator](https://github.com/Bilal0876)
+###  [Language Translator](https://github.com/Bilal0876)
 A user-friendly multilingual translation application with a clean and intuitive interface.
 
 **Key Features:**
@@ -86,26 +86,26 @@ A user-friendly multilingual translation application with a clean and intuitive 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 I'd love to connect and collaborate! Feel free to reach out:
 
-- 📧 **Email:** [m.bilal0876@gmail.com](mailto:m.bilal0876@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/bilal0876) *(Add your LinkedIn URL)*
-- 🌍 **Portfolio:** [Visit my portfolio](https://bilal0876.github.io/Portfolio/) *(Add your website)*
+-  **Email:** [m.bilal0876@gmail.com](mailto:m.bilal0876@gmail.com)
+-  **LinkedIn:** [Connect with me](https://linkedin.com/in/bilal0876) 
+-  **Portfolio:** [Visit my portfolio](https://bilal0876.github.io/Portfolio/)
 
 ---
 
-## 🎯 Currently
+##  Currently
 
-- 🔭 Building innovative full-stack solutions at Qubit Lab Inc.
-- 🌱 Deepening expertise in cloud technologies and AI integration
-- 💬 Open to collaborations, freelance projects, and learning opportunities
-- ⚡ **Fun Fact:** I'm passionate about leveraging technology to solve real-world problems, especially in the legal tech and AI translation spaces!
+-  Building innovative full-stack solutions at Qubit Lab Inc.
+-  Deepening expertise in cloud technologies and AI integration
+-  Open to collaborations, freelance projects, and learning opportunities
+-  **Fun Fact:** I'm passionate about leveraging technology to solve real-world problems, especially in the legal tech and AI translation spaces!
 
 ---
 
-## 💡 What I'm Learning
+##  What I'm Learning
 
 - Advanced React patterns and performance optimization
 - Cloud architecture and deployment strategies
@@ -114,7 +114,7 @@ I'd love to connect and collaborate! Feel free to reach out:
 
 ---
 
-## 🤝 Open to Opportunities
+##  Open to Opportunities
 
 I'm actively seeking opportunities to:
 - Contribute to open-source projects
